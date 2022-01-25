@@ -6,10 +6,12 @@
 
 ---
 ## Sobre
-#### Projeto feito na **NLW Heat** da **rocketseat**  trilha **Origin.** Um Crachá Virtual com links para sua redes socia redes. Esse projeto usa a api no **GitHub** para pegar as informações do usuário
+#### Projeto feito na **NLW Heat** da **rocketseat**  trilha **Origin.** Um Crachá Virtual com links para sua redes socia redes. Esse projeto usa a api no **GitHub** para pegar as informações do usuário e utilizar no projeto.
 
+---
+GitHub Pages: https://aurelianoderafa.github.io/projetoNLW7heat/
 
- ---
+---
 ## 💻 Tecnologia utilizada
  * HTML 5 
  * CSS 3

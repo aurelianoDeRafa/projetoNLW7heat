@@ -4,6 +4,7 @@ const LinksSocialMedia = {
   youtube: "test",
   facebook: "blabla",
   instagram: "leafar.dev",
+  linkedin: "in/aureliano-silva-1923a421b/"
 }
 
 function changrSocialMediaLinks() {
